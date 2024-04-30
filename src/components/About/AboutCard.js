@@ -16,7 +16,7 @@ function AboutCard() {
             <br />
             <br />
 
-            I have successfully completed certifications in both <span className="purple">Cloud Computing </span>and <span className="purple">Java Programming</span>through the NPTEL platform
+            I have successfully completed certifications in both <span className="purple">Cloud Computing </span>and <span className="purple">Java Programming </span>through the NPTEL platform
             <br />
 
             <br />

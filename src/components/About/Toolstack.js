@@ -2,10 +2,10 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+  // SiPostman,
+  // SiSlack,
+  // SiVercel,
+  // SiMacos,
 } from "react-icons/si";
 import { SiLinux } from "react-icons/si";
 import { SiDocker } from "react-icons/si";
